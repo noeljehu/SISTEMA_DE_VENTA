@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "SISTEMA_DE_VENTA\CapaPresentacion.csproj", "{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{2D812FCF-6B86-4DB0-8EF6-3B989FDCE8E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{947D24B5-D093-4D00-B4E1-1FBB46D139B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sql", "sql", "{A22583C0-CC6C-4BBB-B932-34B95D51E1C7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER01\MSSQL\Backup\SistemaDeVenta2 = ..\..\..\..\..\..\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER01\MSSQL\Backup\SistemaDeVenta2
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D812FCF-6B86-4DB0-8EF6-3B989FDCE8E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D812FCF-6B86-4DB0-8EF6-3B989FDCE8E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D812FCF-6B86-4DB0-8EF6-3B989FDCE8E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D812FCF-6B86-4DB0-8EF6-3B989FDCE8E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947D24B5-D093-4D00-B4E1-1FBB46D139B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947D24B5-D093-4D00-B4E1-1FBB46D139B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947D24B5-D093-4D00-B4E1-1FBB46D139B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947D24B5-D093-4D00-B4E1-1FBB46D139B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
