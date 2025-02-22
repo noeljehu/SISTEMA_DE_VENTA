@@ -41,3 +41,4 @@ C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-m
 C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\Models\obj\Debug\net8.0\Models.pdb
 C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\Models\obj\Debug\net8.0\Models.genruntimeconfig.cache
 C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\Models\obj\Debug\net8.0\ref\Models.dll
+C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\Models\obj\Debug\net8.0\Models.sourcelink.json

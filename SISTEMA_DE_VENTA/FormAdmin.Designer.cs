@@ -26,6 +26,7 @@ namespace CapaPresentacion
             panel2 = new Panel();
             sqlCommand1 = new Microsoft.Data.SqlClient.SqlCommand();
             iconMenuItem1 = new FontAwesome.Sharp.IconMenuItem();
+            btnCategoria = new FontAwesome.Sharp.IconButton();
             panelMenu.SuspendLayout();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
@@ -34,6 +35,7 @@ namespace CapaPresentacion
             // panelMenu
             // 
             panelMenu.BackColor = Color.FromArgb(37, 153, 252);
+            panelMenu.Controls.Add(btnCategoria);
             panelMenu.Controls.Add(btnPersona);
             panelMenu.Controls.Add(btnProveedor);
             panelMenu.Controls.Add(btnTrabajador);
@@ -143,7 +145,7 @@ namespace CapaPresentacion
             label1.ForeColor = Color.White;
             label1.Location = new Point(1056, 22);
             label1.Name = "label1";
-            label1.Size = new Size(65, 28);
+            label1.Size = new Size(52, 21);
             label1.TabIndex = 0;
             label1.Text = "label1";
             // 
@@ -163,7 +165,7 @@ namespace CapaPresentacion
             labelTitulo.ForeColor = Color.White;
             labelTitulo.Location = new Point(45, 22);
             labelTitulo.Name = "labelTitulo";
-            labelTitulo.Size = new Size(384, 32);
+            labelTitulo.Size = new Size(294, 26);
             labelTitulo.TabIndex = 2;
             labelTitulo.Text = "Dashboard - Administración";
             // 
@@ -202,6 +204,24 @@ namespace CapaPresentacion
             iconMenuItem1.Size = new Size(32, 19);
             iconMenuItem1.Text = "iconMenuItem1";
             // 
+            // btnCategoria
+            // 
+            btnCategoria.Dock = DockStyle.Top;
+            btnCategoria.FlatStyle = FlatStyle.Flat;
+            btnCategoria.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnCategoria.ForeColor = Color.White;
+            btnCategoria.IconChar = FontAwesome.Sharp.IconChar.Male;
+            btnCategoria.IconColor = Color.White;
+            btnCategoria.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            btnCategoria.Location = new Point(0, 300);
+            btnCategoria.Name = "btnCategoria";
+            btnCategoria.Size = new Size(240, 60);
+            btnCategoria.TabIndex = 11;
+            btnCategoria.Text = "Categoria";
+            btnCategoria.TextImageRelation = TextImageRelation.ImageBeforeText;
+            btnCategoria.UseVisualStyleBackColor = true;
+            btnCategoria.Click += btnCategoria_Click;
+            // 
             // FormAdmin
             // 
             BackColor = Color.FromArgb(245, 246, 250);
@@ -237,6 +257,7 @@ namespace CapaPresentacion
         private FontAwesome.Sharp.IconButton btnProducto;
         private FontAwesome.Sharp.IconButton btnUsuario;
         private FontAwesome.Sharp.IconButton btnPersona;
+        private FontAwesome.Sharp.IconButton btnCategoria;
     }
 
 }

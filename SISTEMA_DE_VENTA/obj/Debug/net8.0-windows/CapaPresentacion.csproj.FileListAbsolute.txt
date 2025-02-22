@@ -484,3 +484,5 @@ C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-m
 C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\SISTEMA_DE_VENTA\obj\Debug\net8.0-windows\CapaPresentacion.genruntimeconfig.cache
 C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\SISTEMA_DE_VENTA\obj\Debug\net8.0-windows\ref\CapaPresentacion.dll
 C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\SISTEMA_DE_VENTA\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\SISTEMA_DE_VENTA\obj\Debug\net8.0-windows\CapaPresentacion.sourcelink.json
+C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\SISTEMA_DE_VENTA\obj\Debug\net8.0-windows\UI.CategoriaProductoForm.resources

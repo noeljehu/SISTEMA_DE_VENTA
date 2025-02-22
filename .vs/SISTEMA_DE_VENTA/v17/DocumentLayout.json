@@ -3,8 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\sistema_de_venta\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|solutionrelative:models\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|solutionrelative:models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D812FCF-6B86-4DB0-8EF6-3B989FDCE8E5}|BLL\\BLL.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\bll\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D812FCF-6B86-4DB0-8EF6-3B989FDCE8E5}|BLL\\BLL.csproj|solutionrelative:bll\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|solutionrelative:models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\models\\ubigeo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|solutionrelative:models\\ubigeo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947D24B5-D093-4D00-B4E1-1FBB46D139B2}|DAL\\DAL.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\dal\\categoriaproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947D24B5-D093-4D00-B4E1-1FBB46D139B2}|DAL\\DAL.csproj|solutionrelative:dal\\categoriaproductoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\models\\categoriaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|solutionrelative:models\\categoriaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formtrabajadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formtrabajadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\categoriaproductoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\categoriaproductoform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\categoriaproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\categoriaproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formtrabajadores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formtrabajadores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\frmusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947D24B5-D093-4D00-B4E1-1FBB46D139B2}|DAL\\DAL.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\dal\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947D24B5-D093-4D00-B4E1-1FBB46D139B2}|DAL\\DAL.csproj|solutionrelative:dal\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\categoriaproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\categoriaproductoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{947D24B5-D093-4D00-B4E1-1FBB46D139B2}|DAL\\DAL.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\dal\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{947D24B5-D093-4D00-B4E1-1FBB46D139B2}|DAL\\DAL.csproj|solutionrelative:dal\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A35303-B598-44CC-9BFA-F20B3A3E49E8}|Models\\Models.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,40 +107,16 @@
       "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\formtrabajadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formtrabajadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{947D24B5-D093-4D00-B4E1-1FBB46D139B2}|DAL\\DAL.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\dal\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{947D24B5-D093-4D00-B4E1-1FBB46D139B2}|DAL\\DAL.csproj|solutionrelative:dal\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D812FCF-6B86-4DB0-8EF6-3B989FDCE8E5}|BLL\\BLL.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\bll\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D812FCF-6B86-4DB0-8EF6-3B989FDCE8E5}|BLL\\BLL.csproj|solutionrelative:bll\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\sistema_de_venta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{947D24B5-D093-4D00-B4E1-1FBB46D139B2}|DAL\\DAL.csproj|c:\\users\\hp\\desktop\\6to\\martes\\proyecto desarrollo software 2\\sistema_de_venta-main\\dal\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{947D24B5-D093-4D00-B4E1-1FBB46D139B2}|DAL\\DAL.csproj|solutionrelative:dal\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\sistema_de_venta\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|solutionrelative:sistema_de_venta\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A967C9F-BC0F-4578-84E5-47B4AE33FD6B}|SISTEMA_DE_VENTA\\CapaPresentacion.csproj|C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\sistema_de_venta\\formpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -74,40 +142,328 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\Proveedor.cs",
+              "RelativeToolTip": "Models\\Proveedor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:10:11.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ubigeo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\Ubigeo.cs",
+              "RelativeDocumentMoniker": "Models\\Ubigeo.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\Ubigeo.cs",
+              "RelativeToolTip": "Models\\Ubigeo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:06:36.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\DetalleCompra.cs",
+              "RelativeDocumentMoniker": "Models\\DetalleCompra.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\DetalleCompra.cs",
+              "RelativeToolTip": "Models\\DetalleCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:05:57.658Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormLogin.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormLogin.Designer.cs",
-              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormLogin.Designer.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormLogin.Designer.cs",
-              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormLogin.Designer.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAowMsAAAAdAAAAAAAAAA==",
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\Compra.cs",
+              "RelativeToolTip": "Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:37:48.336Z",
+              "WhenOpened": "2025-02-22T02:05:29.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\Program.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\Program.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T23:55:36.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormLogin.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormLogin.cs",
-              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormLogin.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormLogin.cs",
-              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\BLL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BLL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\BLL\\AppDbContext.cs",
+              "RelativeToolTip": "BLL\\AppDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:35:45.678Z"
+              "WhenOpened": "2025-02-20T23:54:48.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:02:14.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormAdmin.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:37:38.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormProductos.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:21:10.294Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormProductos.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormProductos.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormProductos.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:47:59.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\DAL\\CategoriaProductoService.cs",
+              "RelativeDocumentMoniker": "DAL\\CategoriaProductoService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\DAL\\CategoriaProductoService.cs",
+              "RelativeToolTip": "DAL\\CategoriaProductoService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:32:57.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaProducto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\CategoriaProducto.cs",
+              "RelativeDocumentMoniker": "Models\\CategoriaProducto.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\CategoriaProducto.cs",
+              "RelativeToolTip": "Models\\CategoriaProducto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:04:34.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriaProductoForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\CategoriaProductoForm.Designer.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\CategoriaProductoForm.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\CategoriaProductoForm.Designer.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\CategoriaProductoForm.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswGgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:55:49.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormTrabajadores.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormTrabajadores.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormTrabajadores.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormTrabajadores.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormTrabajadores.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:20:58.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormAdmin.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:12:45.961Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormTrabajadores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormTrabajadores.Designer.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormTrabajadores.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormTrabajadores.Designer.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormTrabajadores.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAgwIwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:09:00.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriaProductoForm.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\CategoriaProductoForm.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\CategoriaProductoForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\CategoriaProductoForm.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\CategoriaProductoForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:55:36.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmUsuarios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FrmUsuarios.Designer.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FrmUsuarios.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FrmUsuarios.Designer.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FrmUsuarios.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:08:43.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\DAL\\ClienteService.cs",
+              "RelativeDocumentMoniker": "DAL\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\DAL\\ClienteService.cs",
+              "RelativeToolTip": "DAL\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T01:08:37.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoriaProductoForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\CategoriaProductoForm.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\CategoriaProductoForm.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\CategoriaProductoForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\CategoriaProductoForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:55:26.307Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormAdmin.Designer.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormAdmin.Designer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAuwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:57:20.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\DAL\\ProductoService.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\DAL\\ProductoService.cs",
+              "RelativeToolTip": "DAL\\ProductoService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwDQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T00:10:13.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormProductos.Designer.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormProductos.Designer.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormProductos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:21:55.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T00:03:04.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "FormPersonas.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormPersonas.cs",
               "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormPersonas.cs",
@@ -120,61 +476,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormAdmin.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormAdmin.cs",
-              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormAdmin.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormAdmin.cs",
-              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormAdmin.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormLogin.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormLogin.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T02:37:38.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T00:35:45.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormTrabajadores.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormTrabajadores.cs",
-              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormTrabajadores.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormTrabajadores.cs",
-              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormTrabajadores.cs",
-              "ViewState": "AgIAAKwAAAAAAAAAAAAowLoAAAARAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormLogin.Designer.cs",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormLogin.Designer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowMsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:20:58.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-21T00:37:48.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\Program.cs",
-              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\Program.cs",
-              "RelativeToolTip": "SISTEMA_DE_VENTA\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T23:55:36.026Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormAdmin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormAdmin.cs",
-              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormAdmin.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormAdmin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormAdmin.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T02:12:45.961Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 27,
               "Title": "PersonaService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\DAL\\PersonaService.cs",
               "RelativeDocumentMoniker": "DAL\\PersonaService.cs",
@@ -186,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\appsettings.json",
               "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\appsettings.json",
@@ -198,42 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\BLL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "BLL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\BLL\\AppDbContext.cs",
-              "RelativeToolTip": "BLL\\AppDbContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T23:54:48.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductoService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\DAL\\ProductoService.cs",
-              "RelativeDocumentMoniker": "DAL\\ProductoService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\DAL\\ProductoService.cs",
-              "RelativeToolTip": "DAL\\ProductoService.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAkwH0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:10:13.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormProductos.cs",
-              "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormProductos.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SISTEMA_DE_VENTA\\FormProductos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T03:07:55.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 29,
               "Title": "FormPersonas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormPersonas.cs",
               "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormPersonas.cs",
@@ -244,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 30,
               "Title": "FormProveedores.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormProveedores.cs",
               "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormProveedores.cs",
@@ -255,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 31,
               "Title": "FormTrabajadores.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FormTrabajadores.cs",
               "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FormTrabajadores.cs",
@@ -266,14 +557,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "FrmUsuarios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FrmUsuarios.cs",
               "RelativeDocumentMoniker": "SISTEMA_DE_VENTA\\FrmUsuarios.cs",
-              "ToolTip": "C:\\Users\\nicol\\Documents\\PROYECTO\\Sistema_De_Venta-main\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FrmUsuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\nicol\\Documents\\PROYECTO\\Sistema_De_Venta-main\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FrmUsuarios.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\6to\\Martes\\Proyecto Desarrollo Software 2\\Sistema_De_Venta-main\\SISTEMA_DE_VENTA\\FrmUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SISTEMA_DE_VENTA\\FrmUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T02:26:08.948Z"
+              "WhenOpened": "2025-02-19T02:26:08.948Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

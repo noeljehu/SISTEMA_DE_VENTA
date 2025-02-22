@@ -27,5 +27,12 @@ namespace Models
         public int Stock { get; set; }
 
         public bool Estado { get; set; } = true;
+
+        // Relación con CategoriaProducto
+        [ForeignKey("CategoriaProducto")]
+        public int IdCategoria { get; set; }
+        public CategoriaProducto CategoriaProducto { get; set; } = null!;
+
+        public ICollection<DetalleCompra> DetallesCompra { get; set; } = new List<DetalleCompra>();
     }
 }

@@ -56,3 +56,4 @@ C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-m
 C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\DAL\obj\Debug\net8.0\DAL.pdb
 C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
 C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\HP\Desktop\6to\Martes\Proyecto Desarrollo Software 2\Sistema_De_Venta-main\DAL\obj\Debug\net8.0\DAL.sourcelink.json

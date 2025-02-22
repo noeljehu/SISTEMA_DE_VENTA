@@ -6,6 +6,7 @@ using Models; // Para usar la clase Usuario
 using Microsoft.EntityFrameworkCore;
 using SISTEMA_DE_VENTA;
 using Microsoft.Extensions.DependencyInjection;
+using UI;
 
 namespace CapaPresentacion
 {
@@ -39,15 +40,26 @@ namespace CapaPresentacion
 
         private void AbrirFormulario(Form formHijo)
         {
-            panelContenedor.Controls.Clear(); // Limpiar contenido del panel
+            // Verifica si ya hay un formulario cargado en el panel
+            if (panelContenedor.Controls.Count > 0)
+            {
+                Form formularioActual = panelContenedor.Controls[0] as Form;
+                if (formularioActual != null && formularioActual.GetType() == formHijo.GetType())
+                {
+                    return; // Si el formulario es el mismo, no lo vuelve a cargar.
+                }
+            }
+
+            panelContenedor.Controls.Clear(); // Limpia el panel solo si es necesario
 
             formHijo.TopLevel = false;
+            formHijo.FormBorderStyle = FormBorderStyle.None;
             formHijo.Dock = DockStyle.Fill;
             panelContenedor.Controls.Add(formHijo);
-            formHijo.BackColor = Color.White;
             panelContenedor.Tag = formHijo;
             formHijo.Show();
         }
+
 
         private void btnUsuario_Click(object sender, EventArgs e)
         {
@@ -69,9 +81,12 @@ namespace CapaPresentacion
 
         private void btnProducto_Click(object sender, EventArgs e)
         {
-            FormProductos formProductos = new FormProductos(_context);
+            var productoService = new ProductoService(_context);
+            var categoriaService = new CategoriaProductoService(_context); // FALTA ESTO
+            var formProductos = new FormProductos(productoService, categoriaService, _context);
             AbrirFormulario(formProductos);
         }
+
 
         private void btnTrabajador_Click(object sender, EventArgs e)
         {
@@ -83,6 +98,13 @@ namespace CapaPresentacion
         {
             FormProveedores formProveedores = new FormProveedores(_context);
             AbrirFormulario(formProveedores);
+        }
+
+        private void btnCategoria_Click(object sender, EventArgs e)
+        {
+            var categoriaService = new CategoriaProductoService(_context); 
+            CategoriaProductoForm categoriaProductoForm = new CategoriaProductoForm(categoriaService);
+            AbrirFormulario(categoriaProductoForm);
         }
     }
 }

@@ -31,5 +31,9 @@ namespace Models
         public string? Observaciones { get; set; }
 
         public string? Web { get; set; }
+
+
+        public ICollection<Compra> Compras { get; set; } = new List<Compra>();
+        
     }
 }

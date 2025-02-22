@@ -3,10 +3,22 @@
     partial class FormProductos
     {
         private System.ComponentModel.IContainer components = null;
-        private Label lblNombre, lblDescripcion, lblPrecio, lblStock, lblBuscarNombre;
-        private TextBox txtNombre, txtDescripcion, txtPrecio, txtStock, txtBuscarNombre;
-        private Button btnAgregar, btnActualizar, btnHabilitar, btnDeshabilitar, btnBuscarNombre;
-        private DataGridView dgvProductos;
+        private System.Windows.Forms.DataGridView dgvProductos;
+        private System.Windows.Forms.TextBox txtNombre;
+        private System.Windows.Forms.TextBox txtDescripcion;
+        private System.Windows.Forms.TextBox txtPrecio;
+        private System.Windows.Forms.TextBox txtStock;
+        private System.Windows.Forms.ComboBox cmbCategoria;
+        private System.Windows.Forms.CheckBox chkEstado;
+        private System.Windows.Forms.Button btnAgregar;
+        private System.Windows.Forms.Button btnActualizar;
+        private System.Windows.Forms.Button btnEliminar;
+        private System.Windows.Forms.Label lblNombre;
+        private System.Windows.Forms.Label lblDescripcion;
+        private System.Windows.Forms.Label lblPrecio;
+        private System.Windows.Forms.Label lblStock;
+        private System.Windows.Forms.Label lblCategoria;
+        private System.Windows.Forms.Label lblEstado;
 
         protected override void Dispose(bool disposing)
         {
@@ -17,219 +29,90 @@
             base.Dispose(disposing);
         }
 
-        #region Código del Diseñador
         private void InitializeComponent()
         {
-            lblNombre = new Label();
-            txtNombre = new TextBox();
-            lblDescripcion = new Label();
-            txtDescripcion = new TextBox();
-            lblPrecio = new Label();
-            txtPrecio = new TextBox();
-            lblStock = new Label();
-            txtStock = new TextBox();
-            lblBuscarNombre = new Label();
-            txtBuscarNombre = new TextBox();
-            btnAgregar = new Button();
-            btnActualizar = new Button();
-            btnHabilitar = new Button();
-            btnDeshabilitar = new Button();
-            btnBuscarNombre = new Button();
-            dgvProductos = new DataGridView();
-            ((System.ComponentModel.ISupportInitialize)dgvProductos).BeginInit();
-            SuspendLayout();
-            // 
-            // lblNombre
-            // 
-            lblNombre.Font = new Font("Segoe UI", 10.8F);
-            lblNombre.Location = new Point(27, 28);
-            lblNombre.Name = "lblNombre";
-            lblNombre.Size = new Size(97, 28);
-            lblNombre.TabIndex = 0;
-            lblNombre.Text = "Nombre:";
-            // 
-            // txtNombre
-            // 
-            txtNombre.Font = new Font("Segoe UI", 10.8F);
-            txtNombre.Location = new Point(142, 25);
-            txtNombre.Name = "txtNombre";
-            txtNombre.Size = new Size(200, 31);
-            txtNombre.TabIndex = 1;
-            // 
-            // lblDescripcion
-            // 
-            lblDescripcion.Font = new Font("Segoe UI", 10.8F);
-            lblDescripcion.Location = new Point(27, 65);
-            lblDescripcion.Name = "lblDescripcion";
-            lblDescripcion.Size = new Size(109, 23);
-            lblDescripcion.TabIndex = 2;
-            lblDescripcion.Text = "Descripción:";
-            // 
-            // txtDescripcion
-            // 
-            txtDescripcion.Font = new Font("Segoe UI", 10.8F);
-            txtDescripcion.Location = new Point(142, 62);
-            txtDescripcion.Name = "txtDescripcion";
-            txtDescripcion.Size = new Size(200, 31);
-            txtDescripcion.TabIndex = 3;
-            // 
-            // lblPrecio
-            // 
-            lblPrecio.Font = new Font("Segoe UI", 10.8F);
-            lblPrecio.Location = new Point(27, 102);
-            lblPrecio.Name = "lblPrecio";
-            lblPrecio.Size = new Size(80, 23);
-            lblPrecio.TabIndex = 4;
-            lblPrecio.Text = "Precio:";
-            // 
-            // txtPrecio
-            // 
-            txtPrecio.Font = new Font("Segoe UI", 10.8F);
-            txtPrecio.Location = new Point(142, 99);
-            txtPrecio.Name = "txtPrecio";
-            txtPrecio.Size = new Size(100, 31);
-            txtPrecio.TabIndex = 5;
-            // 
-            // lblStock
-            // 
-            lblStock.Font = new Font("Segoe UI", 10.8F);
-            lblStock.Location = new Point(27, 139);
-            lblStock.Name = "lblStock";
-            lblStock.Size = new Size(80, 23);
-            lblStock.TabIndex = 6;
-            lblStock.Text = "Stock:";
-            // 
-            // txtStock
-            // 
-            txtStock.Font = new Font("Segoe UI", 10.8F);
-            txtStock.Location = new Point(142, 136);
-            txtStock.Name = "txtStock";
-            txtStock.Size = new Size(100, 31);
-            txtStock.TabIndex = 7;
-            // 
-            // lblBuscarNombre
-            // 
-            lblBuscarNombre.Font = new Font("Segoe UI", 10.8F);
-            lblBuscarNombre.Location = new Point(367, 29);
-            lblBuscarNombre.Name = "lblBuscarNombre";
-            lblBuscarNombre.Size = new Size(100, 23);
-            lblBuscarNombre.TabIndex = 17;
-            lblBuscarNombre.Text = "Buscar por Nombre:";
-            // 
-            // txtBuscarNombre
-            // 
-            txtBuscarNombre.Font = new Font("Segoe UI", 10.8F);
-            txtBuscarNombre.Location = new Point(473, 25);
-            txtBuscarNombre.Name = "txtBuscarNombre";
-            txtBuscarNombre.Size = new Size(288, 31);
-            txtBuscarNombre.TabIndex = 18;
-            // 
-            // btnAgregar
-            // 
-            btnAgregar.BackColor = Color.FromArgb(93, 176, 188);
-            btnAgregar.FlatStyle = FlatStyle.Flat;
-            btnAgregar.Font = new Font("Segoe UI", 10.8F);
-            btnAgregar.ForeColor = Color.White;
-            btnAgregar.Location = new Point(27, 202);
-            btnAgregar.Name = "btnAgregar";
-            btnAgregar.Size = new Size(215, 41);
-            btnAgregar.TabIndex = 10;
-            btnAgregar.Text = "Agregar";
-            btnAgregar.UseVisualStyleBackColor = false;
-            btnAgregar.Click += btnAgregar_Click;
-            // 
-            // btnActualizar
-            // 
-            btnActualizar.BackColor = Color.FromArgb(51, 194, 108);
-            btnActualizar.FlatStyle = FlatStyle.Flat;
-            btnActualizar.Font = new Font("Segoe UI", 10.8F);
-            btnActualizar.ForeColor = Color.White;
-            btnActualizar.Location = new Point(27, 249);
-            btnActualizar.Name = "btnActualizar";
-            btnActualizar.Size = new Size(215, 41);
-            btnActualizar.TabIndex = 11;
-            btnActualizar.Text = "Actualizar";
-            btnActualizar.UseVisualStyleBackColor = false;
-            btnActualizar.Click += btnActualizar_Click;
-            // 
-            // btnHabilitar
-            // 
-            btnHabilitar.BackColor = Color.LightCoral;
-            btnHabilitar.FlatStyle = FlatStyle.Flat;
-            btnHabilitar.Font = new Font("Segoe UI", 10.8F);
-            btnHabilitar.ForeColor = Color.White;
-            btnHabilitar.Location = new Point(27, 296);
-            btnHabilitar.Name = "btnHabilitar";
-            btnHabilitar.Size = new Size(215, 41);
-            btnHabilitar.TabIndex = 12;
-            btnHabilitar.Text = "Habilitar";
-            btnHabilitar.UseVisualStyleBackColor = false;
-            btnHabilitar.Click += btnHabilitar_Click_1;
-            // 
-            // btnDeshabilitar
-            // 
-            btnDeshabilitar.BackColor = Color.Goldenrod;
-            btnDeshabilitar.FlatStyle = FlatStyle.Flat;
-            btnDeshabilitar.Font = new Font("Segoe UI", 10.8F);
-            btnDeshabilitar.ForeColor = Color.White;
-            btnDeshabilitar.Location = new Point(27, 343);
-            btnDeshabilitar.Name = "btnDeshabilitar";
-            btnDeshabilitar.Size = new Size(215, 41);
-            btnDeshabilitar.TabIndex = 13;
-            btnDeshabilitar.Text = "Deshabilitar";
-            btnDeshabilitar.UseVisualStyleBackColor = false;
-            btnDeshabilitar.Click += btnDeshabilitar_Click_1;
-            // 
-            // btnBuscarNombre
-            // 
-            btnBuscarNombre.BackColor = Color.Silver;
-            btnBuscarNombre.FlatStyle = FlatStyle.Flat;
-            btnBuscarNombre.Font = new Font("Segoe UI", 10.8F);
-            btnBuscarNombre.Location = new Point(767, 25);
-            btnBuscarNombre.Name = "btnBuscarNombre";
-            btnBuscarNombre.Size = new Size(161, 31);
-            btnBuscarNombre.TabIndex = 19;
-            btnBuscarNombre.Text = "Buscar";
-            btnBuscarNombre.UseVisualStyleBackColor = false;
-            // 
-            // dgvProductos
-            // 
-            dgvProductos.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            dgvProductos.BackgroundColor = Color.White;
-            dgvProductos.ColumnHeadersHeight = 29;
-            dgvProductos.Location = new Point(368, 73);
-            dgvProductos.Name = "dgvProductos";
-            dgvProductos.RowHeadersWidth = 51;
-            dgvProductos.Size = new Size(669, 387);
-            dgvProductos.TabIndex = 20;
-            dgvProductos.CellClick += dgvProductos_CellClick;
-            // 
+            this.dgvProductos = new System.Windows.Forms.DataGridView();
+            this.txtNombre = new System.Windows.Forms.TextBox();
+            this.txtDescripcion = new System.Windows.Forms.TextBox();
+            this.txtPrecio = new System.Windows.Forms.TextBox();
+            this.txtStock = new System.Windows.Forms.TextBox();
+            this.cmbCategoria = new System.Windows.Forms.ComboBox();
+            this.chkEstado = new System.Windows.Forms.CheckBox();
+            this.btnAgregar = new System.Windows.Forms.Button();
+            this.btnActualizar = new System.Windows.Forms.Button();
+            this.btnEliminar = new System.Windows.Forms.Button();
+            this.lblNombre = new System.Windows.Forms.Label();
+            this.lblDescripcion = new System.Windows.Forms.Label();
+            this.lblPrecio = new System.Windows.Forms.Label();
+            this.lblStock = new System.Windows.Forms.Label();
+            this.lblCategoria = new System.Windows.Forms.Label();
+            this.lblEstado = new System.Windows.Forms.Label();
+
             // FormProductos
-            // 
-            BackColor = Color.White;
-            ClientSize = new Size(1060, 479);
-            Controls.Add(lblNombre);
-            Controls.Add(txtNombre);
-            Controls.Add(lblDescripcion);
-            Controls.Add(txtDescripcion);
-            Controls.Add(lblPrecio);
-            Controls.Add(txtPrecio);
-            Controls.Add(lblStock);
-            Controls.Add(txtStock);
-            Controls.Add(btnAgregar);
-            Controls.Add(btnActualizar);
-            Controls.Add(btnHabilitar);
-            Controls.Add(btnDeshabilitar);
-            Controls.Add(lblBuscarNombre);
-            Controls.Add(txtBuscarNombre);
-            Controls.Add(btnBuscarNombre);
-            Controls.Add(dgvProductos);
-            Name = "FormProductos";
-            Text = "Gestión de Productos";
-            ((System.ComponentModel.ISupportInitialize)dgvProductos).EndInit();
-            ResumeLayout(false);
-            PerformLayout();
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.dgvProductos);
+            this.Controls.Add(this.txtNombre);
+            this.Controls.Add(this.txtDescripcion);
+            this.Controls.Add(this.txtPrecio);
+            this.Controls.Add(this.txtStock);
+            this.Controls.Add(this.cmbCategoria);
+            this.Controls.Add(this.chkEstado);
+            this.Controls.Add(this.btnAgregar);
+            this.Controls.Add(this.btnActualizar);
+            this.Controls.Add(this.btnEliminar);
+            this.Controls.Add(this.lblNombre);
+            this.Controls.Add(this.lblDescripcion);
+            this.Controls.Add(this.lblPrecio);
+            this.Controls.Add(this.lblStock);
+            this.Controls.Add(this.lblCategoria);
+            this.Controls.Add(this.lblEstado);
+            this.Text = "Gestión de Productos";
+
+            // Labels
+            this.lblNombre.Text = "Nombre:";
+            this.lblNombre.Location = new System.Drawing.Point(20, 20);
+
+            this.lblDescripcion.Text = "Descripción:";
+            this.lblDescripcion.Location = new System.Drawing.Point(20, 60);
+
+            this.lblPrecio.Text = "Precio:";
+            this.lblPrecio.Location = new System.Drawing.Point(20, 100);
+
+            this.lblStock.Text = "Stock:";
+            this.lblStock.Location = new System.Drawing.Point(20, 140);
+
+            this.lblCategoria.Text = "Categoría:";
+            this.lblCategoria.Location = new System.Drawing.Point(20, 180);
+
+            this.lblEstado.Text = "Estado:";
+            this.lblEstado.Location = new System.Drawing.Point(20, 220);
+
+            // TextBoxes
+            this.txtNombre.Location = new System.Drawing.Point(120, 20);
+            this.txtDescripcion.Location = new System.Drawing.Point(120, 60);
+            this.txtPrecio.Location = new System.Drawing.Point(120, 100);
+            this.txtStock.Location = new System.Drawing.Point(120, 140);
+
+            // ComboBox
+            this.cmbCategoria.Location = new System.Drawing.Point(120, 180);
+
+            // CheckBox
+            this.chkEstado.Location = new System.Drawing.Point(120, 220);
+
+            // Buttons
+            this.btnAgregar.Text = "Agregar";
+            this.btnAgregar.Location = new System.Drawing.Point(20, 260);
+
+            this.btnActualizar.Text = "Actualizar";
+            this.btnActualizar.Location = new System.Drawing.Point(120, 260);
+
+            this.btnEliminar.Text = "Eliminar";
+            this.btnEliminar.Location = new System.Drawing.Point(220, 260);
+
+            // DataGridView
+            this.dgvProductos.Location = new System.Drawing.Point(20, 300);
+            this.dgvProductos.Size = new System.Drawing.Size(760, 130);
+            this.dgvProductos.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
         }
-        #endregion
     }
 }
